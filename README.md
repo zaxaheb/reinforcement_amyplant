@@ -15,7 +15,7 @@ Y a deux fichiers :
 - **bipedal_walker_2d.py**
 - **humanoid_walker_3d.py**
 
-Comme les noms l'indiquent, l'un permet d'entrainer le modèle pour le robot bipède en 2D et l'autre le robot humanoïde en 3D. 
+Comme les noms l'indiquent, l'un permet d'entrainer le modèle pour le robot bipède en 2D avec un processus d'optimisation ARS et l'autre le robot humanoïde en 3D avec un processus PPOT. 
 
 Pour exécuter les scripts, il faut simplement exécuter les lignes suivantes :
 
