@@ -50,8 +50,8 @@ tune.run(
     stop={"episode_reward_mean": TARGET_REWARD},
     config={
         "env": ENV,
-        "num_workers": 3,
-        "num_gpus": 0,
+        "num_workers": 3, #modifier ici en fonction du nombre de cpu (nb de cpus - 1)
+        "num_gpus": 0, #modifier ici en fonction du nombre de gpus
         "monitor": True,
         "evaluation_num_episodes": 50,
         "gamma": 0.995,
