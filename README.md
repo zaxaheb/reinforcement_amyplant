@@ -38,4 +38,22 @@ python humanoid_walker_3d.py
 Les résultats seront alors stockés dans un sous dossier 'results/2D' ou 'results/3D'
 
 
+** Ressources **
+
+PPOT :
+- https://datascientest.com/proximal-policy-optimization-tout-savoir
+- https://openai.com/research/openai-baselines-ppo
+- https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b
+
+  ARS :
+  - https://towardsdatascience.com/introduction-to-augmented-random-search-d8d7b55309bd
+  - https://github.com/melih-unsal/augmented-random-search
+ 
+  Reinforcement learning :
+  - https://datascientest.com/reinforcement-learning
+  - https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
+
+    
+
+
 
