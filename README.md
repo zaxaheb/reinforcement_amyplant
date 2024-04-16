@@ -38,7 +38,7 @@ python humanoid_walker_3d.py
 Les résultats seront alors stockés dans un sous dossier 'results/2D' ou 'results/3D'
 
 
-** Ressources **
+### Ressources
 
 PPOT :
 - https://datascientest.com/proximal-policy-optimization-tout-savoir
