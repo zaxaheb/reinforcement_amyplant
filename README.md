@@ -6,9 +6,9 @@ Repo pour le projet de reinforcement learning.
 
 Toutes les librairies nécessaires et les versions dans le fichiers **requirements.txt**, pour les installer exécuter la ligne de code suivante : 
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 
 Y a deux fichiers : 
