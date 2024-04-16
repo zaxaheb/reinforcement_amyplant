@@ -45,13 +45,13 @@ PPOT :
 - https://openai.com/research/openai-baselines-ppo
 - https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b
 
-  ARS :
-  - https://towardsdatascience.com/introduction-to-augmented-random-search-d8d7b55309bd
-  - https://github.com/melih-unsal/augmented-random-search
+ARS :
+- https://towardsdatascience.com/introduction-to-augmented-random-search-d8d7b55309bd
+- https://github.com/melih-unsal/augmented-random-search
  
-  Reinforcement learning :
-  - https://datascientest.com/reinforcement-learning
-  - https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
+Reinforcement learning :
+- https://datascientest.com/reinforcement-learning
+- https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
 
     
 
