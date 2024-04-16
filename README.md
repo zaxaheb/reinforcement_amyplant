@@ -37,6 +37,21 @@ python humanoid_walker_3d.py
 
 Les résultats seront alors stockés dans un sous dossier 'results/2D' ou 'results/3D'
 
+Si au moment d'éxécuter le script 3d, cette erreur s'affiche : 
+
+```
+pyvirtualdisplay.abstractdisplay.XStartError: No success after 10 retries. Last stderr: b"_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.\n_XSERVTransSocketUNIXCreateListener: mkdir(/tmp/.X11-unix) failed, errno = 2\n_XSERVTransMakeAllCOTSServerListeners: failed to create listener for local\n(EE) \nFatal server error:\n(EE) Cannot establish any listening sockets - Make sure an X server isn't already running(EE) \n"
+```
+
+Il faut exécuter ces cellules
+
+```
+mkdir /tmp/.X11-unix
+sudo chmod 1777 /tmp/.X11-unix
+sudo chown root /tmp/.X11-unix/
+```
+
+
 
 ### Ressources
 
