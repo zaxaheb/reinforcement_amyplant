@@ -25,13 +25,15 @@ conda activate name_of_your_env
 pip install -r requirements.txt
 python bipedal_walker_2d.py
 ```
+Puis 
+
+```
+python bipedal_walker_2d.py
+```
 
 Ou alors
 
-```shell
-conda create --name name_of_your_env python=3.9
-conda activate name_of_your_env
-pip install -r requirements.txt
+```
 python humanoid_walker_3d.py
 ```
 
