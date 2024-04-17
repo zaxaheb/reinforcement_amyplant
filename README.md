@@ -69,6 +69,7 @@ ARS :
 Reinforcement learning :
 - https://datascientest.com/reinforcement-learning
 - https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
+- https://datascientest.com/reinforcement-learning-comment-apprendre-a-une-ia-a-jouer-au-snake
 
     
 
