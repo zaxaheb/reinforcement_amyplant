@@ -71,6 +71,10 @@ Reinforcement learning :
 - https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
 - https://datascientest.com/reinforcement-learning-comment-apprendre-a-une-ia-a-jouer-au-snake
 
+Refs :
+- https://colab.research.google.com/github/shariq101/Teaching-a-Bipedal-walker-using-ARS/blob/master/BipedalWalker_V_2.ipynb
+- https://www.codeproject.com/script/Content/ViewReadingList.aspx?rlid=27
+
     
 
 
